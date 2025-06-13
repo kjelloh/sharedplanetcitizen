@@ -14,9 +14,9 @@ Because governance doesn’t have to be left to governments.
 Because imagination is a political act.  
 Because it's time to practice being planetary.
 
-## The Four Independent Powers (So Far)
+## The Independent Powers (So Far)
 
-To explore different modes of civic action, the initiative starts with four semi-fictional, self-governing branches of planetary citizen power:
+To explore different modes of civic action, the initiative starts with semi-fictional, self-governing branches of planetary citizen power:
 
 - **Doocracy** — for those who act and build  
 - **Democracy** — for those who vote and debate  
@@ -44,12 +44,15 @@ Let’s roleplay better ones.
 
 *Let the sessions begin.*
 
+Let's Play!
+
 ---
 
 ## Explore each branch:  
 * [`/doocracy`](./doocracy/README.md)
-<!-->
-* [`/democracy`](./democracy/README.md)  
+* [`/democracy`](./democracy/README.md)
+
+<!--
 * [`/syntheocracy`](./syntheocracy/README.md)  
 * [`/ludocracy`](./ludocracy/README.md)
 * ['/bureaucracy'](./bureaucracy/README.md)
