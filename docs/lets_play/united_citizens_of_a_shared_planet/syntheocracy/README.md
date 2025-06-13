@@ -11,7 +11,9 @@ It begins with a simple observation:
 In this branch, we don't deny that influence — we embrace it with curiosity, responsibility, and care.
 
 We explore what *synthēos* might mean:  
-A created or emergent sense of “that which guides us” — be it sacred, secular, scientific, ancestral, philosophical, or wildly personal.
+A created or emergent sense of “that which guides us” — whether sacred, secular, scientific, ancestral, philosophical, or wildly personal.  
+That which we act on in faith — shaped by what feels deeply true, even when others disagree.  
+Even the search for truth rests on chosen axioms. We bet differently — and must learn to live together while doing so.
 
 ---
 
