@@ -52,7 +52,12 @@ This is for anyone who wants to take the project of being human seriously — wi
 
 ## No moral high ground. No perfect path.
 
-Just the ongoing, fallible, and honest effort to act in alignment with your values — and let your values evolve as you go.
+Just the ongoing, fallible, and honest effort to act in ways that might make life better — for real people, in real conditions.
+
+Then look at what happens. Ask if you can do better.
+
+As the Greeks knew: Navigare necesse est — to navigate is essential.
+So strive for the good place. Mind your direction. And scrutinize where it takes you.
 
 ---
 
