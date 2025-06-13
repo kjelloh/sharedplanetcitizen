@@ -72,3 +72,7 @@ Just the invitation to live. To live well — individually and together.
 To accept that this is hard. But from this, everything else follows.
 
 Let’s play.
+
+# License
+
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
