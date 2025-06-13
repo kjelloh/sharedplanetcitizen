@@ -1,6 +1,6 @@
 # Shared Planet Citizen
 
-This project is for anyone — in any walk of life — who wants to live with eyes open in the face of our shared human mess, and still choose to care.
+This project is for anyone — in any walk of life — who wants to live with eyes open in the face of our shared human mess. But also accept our shortcomings in our ability to do so.
 
 A call to step into your role — not as a perfect person, but as a fallible, feeling, thinking participant in shaping the world we share.
 
@@ -13,7 +13,7 @@ You are not alone. You are already part of the pattern.
 
 **Shared Planet Citizen** is an open invitation to grow your part in the larger human experiment — not by having all the answers, but by learning to navigate better.
 
-It’s about showing up with awareness. Owning your influence. Asking better questions. Taking action that aligns with what matters — while knowing you won’t always get it right.
+It’s about showing up with awareness. Owning your influence. Asking better questions. Taking action that aligns with what matters — while knowing you won’t always get it right. Knowing that the future is a betting game. Knowing there is only so much you can do. But whatever you do or not do matters.
 
 ---
 
