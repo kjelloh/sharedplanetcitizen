@@ -51,9 +51,8 @@ Let's Play!
 ## Explore each branch:  
 * [`/doocracy`](./doocracy/README.md)
 * [`/democracy`](./democracy/README.md)
-
-<!--
 * [`/syntheocracy`](./syntheocracy/README.md)  
+<!--
 * [`/ludocracy`](./ludocracy/README.md)
 * ['/bureaucracy'](./bureaucracy/README.md)
 -->
