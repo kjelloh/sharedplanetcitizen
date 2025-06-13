@@ -73,6 +73,8 @@ To accept that this is hard. But from this, everything else follows.
 
 Let’s play.
 
+* [United Citizens of a Shared Planet](./lets_play/united_citizens_of_a_shared_planet/README.md)
+
 # License
 
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
