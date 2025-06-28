@@ -2,7 +2,7 @@
 
 Let’s mean business — as citizens of a shared planet
 
-* [doc/READEME](doc/README.md)
+* [docs/READEME](docs/README.md)
 
 # License
 
